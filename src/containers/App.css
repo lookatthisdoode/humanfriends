@@ -1,0 +1,12 @@
+@font-face{
+font-family:'colorfont'; 
+font-style: normal;  
+font-weight: 900; 
+src: local('COLORFONT'), url('COLORFONT.woff') format('woff');
+}
+
+
+h1 {
+	font-family: 'COLORFONT';
+	font-size: 4rem;
+}

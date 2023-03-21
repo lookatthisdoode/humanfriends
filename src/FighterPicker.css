@@ -1,0 +1,37 @@
+.fighter-picker-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.fighter-picker {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 20px;
+  width: 500px;
+  height: 500px;
+}
+
+.fighter-box {
+  border: 5px solid white;
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+}
+
+.fighter-box.selected {
+  border-color: blue;
+  animation: flash 1s ease-in-out;
+}
+
+@keyframes flash {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
