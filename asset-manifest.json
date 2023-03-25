@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/humanfriends/static/css/main.b3da9802.css",
+    "main.js": "/humanfriends/static/js/main.e9a45e86.js",
+    "static/js/787.32032a02.chunk.js": "/humanfriends/static/js/787.32032a02.chunk.js",
+    "static/media/COLORFONT.woff": "/humanfriends/static/media/COLORFONT.19d0f22baabed8961df2.woff",
+    "index.html": "/humanfriends/index.html",
+    "main.b3da9802.css.map": "/humanfriends/static/css/main.b3da9802.css.map",
+    "main.e9a45e86.js.map": "/humanfriends/static/js/main.e9a45e86.js.map",
+    "787.32032a02.chunk.js.map": "/humanfriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3da9802.css",
+    "static/js/main.e9a45e86.js"
+  ]
+}
